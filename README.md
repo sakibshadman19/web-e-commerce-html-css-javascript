@@ -7,13 +7,9 @@ Live Link - https://e-commerce-website-html-css-javascript.netlify.app/
 <br/>
 <br/>
 
-
-
+---
 I used Html, Css, JavaScript to build this website.
-
-
 <br/>
-
 ### Author Links  
 
 👋 Hello,I am Shadman - Web developer
