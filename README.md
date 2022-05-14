@@ -18,7 +18,7 @@ I used Html, Css, JavaScript to build this website.
 
 
   - [Github](https://github.com/sakibshadman1)
-  - [LinkedIn](https://www.linkedin.com/in/shadman-sakib-414b25211)
+  - [LinkedIn](https://www.linkedin.com/in/shadman-sakib-95462923a/)
   - [Facebook](https://www.facebook.com/shadman.sakibtanmoy)
   
 
